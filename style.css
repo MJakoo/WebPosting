@@ -27,3 +27,8 @@ html, body {
 .node.Marketing rect {
     fill: #FFCA28;
 }
+
+.node.vacant text  {
+    fill: red;
+  }
+  
